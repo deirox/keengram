@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KEENGRAM/static/css/main.f0272e50.css",
-    "main.js": "/KEENGRAM/static/js/main.2b572e0e.js",
+    "main.js": "/KEENGRAM/static/js/main.e563a46e.js",
     "index.html": "/KEENGRAM/index.html",
     "main.f0272e50.css.map": "/KEENGRAM/static/css/main.f0272e50.css.map",
-    "main.2b572e0e.js.map": "/KEENGRAM/static/js/main.2b572e0e.js.map"
+    "main.e563a46e.js.map": "/KEENGRAM/static/js/main.e563a46e.js.map"
   },
   "entrypoints": [
     "static/css/main.f0272e50.css",
-    "static/js/main.2b572e0e.js"
+    "static/js/main.e563a46e.js"
   ]
 }
