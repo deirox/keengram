@@ -1,0 +1,32 @@
+{
+  "extend": {
+    "colors": {
+      "bg_primary": "0,0,0",
+      "border_primary": "219,219,219",
+      "btn_primary": "0,149,246",
+      "text_primary": "255,255,255",
+      "input_placeholder_primary": "168, 168, 168",
+      "link_primary": "0, 149, 246"
+    },
+    "lineHeight": {
+      "input_placeholder_primary": ".5rem"
+    },
+    "fontSize": {
+      "primary": "1rem",
+      "input_placeholder_primary": ".9rem"
+    },
+    "textColor": {
+      "primary": "rgb(theme('colors.text_primary'))",
+      "input_placeholder_primary": "rgb(theme('colors.input_placeholder_primary'),.75)",
+      "link_primary": "rgb(theme('colors.link_primary'))"
+    },
+    "backgroundColor": {
+      "primary": "rgb(theme('colors.bg_primary'))",
+      "btn_primary": "rgb(theme('colors.btn_primary'))"
+    },
+    "borderColor": {
+      "box-primary": "rgba(theme('colors.border_primary'), .5)",
+      "input-primary": "rgba(theme('colors.border_primary'), .75)"
+    }
+  }
+}
