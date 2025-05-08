@@ -1,0 +1,1 @@
+System.register(["./index-legacy-Dgsqs4q_.js"],(function(e,t){"use strict";var n,r;return{setters:[function(e){n=e.j,r=e.E}],execute:function(){e("default",(function(){return n.jsx("div",{children:n.jsx(r,{})})}))}}}));
