@@ -1,1 +1,0 @@
-import{e,j as r}from"./index-BTDcEEki.js";import{E as s}from"./index-BD3KYa5-.js";import"./tslib.es6-Bl3NwWCd.js";const i=({text:o})=>{const t=e();return r.jsx("div",{children:r.jsx(s,{text:o+" "+t})})};export{i as default};
