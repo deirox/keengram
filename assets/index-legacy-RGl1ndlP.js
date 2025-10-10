@@ -1,0 +1,1 @@
+System.register(["./index-legacy-IlQdntPV.js","./index-legacy-Ck5Dki5V.js","./tslib.es6-legacy-COfaELg7.js"],(function(e,t){"use strict";var n,s,i;return{setters:[function(e){n=e.e,s=e.j},function(e){i=e.E},null],execute:function(){e("default",(function(e){var t=e.text,c=n();return s.jsx("div",{children:s.jsx(i,{text:t+" "+c})})}))}}}));
